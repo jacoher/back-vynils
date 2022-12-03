@@ -2,7 +2,7 @@
     "name": "BackVynils MISO",
     "description": "Backend project for MISO - Web",
     "repository": "https://github.com/jacoher/back-vynils",
-    "addons": ["heroku-postgresql:standard-0"],
+    "addons": ["heroku-postgresql: standard-0"],
     "env": {
       "USE_NPM_INSTALL": {
       "description": "Use NPM install",
